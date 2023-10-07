@@ -14,8 +14,7 @@
 Use your device biometric.
 
 ### Email Login
-E-mail: test.reg.1@gmail.com
-Password: 123456
+Use e-mail `test.reg.1@gmail.com` with password `123456`
 
 ## Testing Simulator
 1. Google Pixel 7 API 33 (Android 13 Tiramisu)
