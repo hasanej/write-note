@@ -3,7 +3,7 @@
 >**WriteNote**: is a simple note taking app for Android and iOS.
 
 ## Overview
-![Login](https://raw.githubusercontent.com/hasanej//write-note/main/screenshot/writenote_login.png)
+![Login](https://raw.githubusercontent.com/hasanej//write-note/main/screenshot/writenote_login.png?token=GHSAT0AAAAAACIKMWIMBDLSC4NRGZQBD4GCZJBCMRQ)
 ![Note_List](https://raw.githubusercontent.com/hasanej//write-note/main/screenshot/writenote_note_list.png)
 ![Note_Detail](https://raw.githubusercontent.com/hasanej//write-note/main/screenshot/writenote_note_detail.png)
 
