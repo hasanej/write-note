@@ -11,7 +11,7 @@
 
 ## User for Testing
 ### Biometric Login
-Use your device biometric
+Use your device biometric.
 
 ### Email Login
 E-mail: test.reg.1@gmail.com
